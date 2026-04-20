@@ -29,8 +29,8 @@ With these skills, I am confident that I will become a knowledgeable and skilled
   <h4>Project Iterations</h4>
 
   <ul>
-    <li><a href='https://github.com/PollenVille/Grocer_app/tree/v1.0'>Phase 1 - Frontend (HTML/CSS/JS)</li>
-    <li><a href='https://github.com/PollenVille/Grocer_app/tree/v2.0'>Phase 2 - Database Deployed / Items Added</li>
-    <li><a href='https://github.com/PollenVille/Grocer_app/tree/v3.0'>Phase 3 - MongoDB Full Integrated</li>
+    <li><a href='https://github.com/PollenVille/Grocer_app/tree/v1.0'>Phase 1 - Frontend (HTML/CSS/JS)</a></li>
+    <li><a href='https://github.com/PollenVille/Grocer_app/tree/v2.0'>Phase 2 - Database Deployed / Items Added</a></li>
+    <li><a href='https://github.com/PollenVille/Grocer_app/tree/v3.0'>Phase 3 - MongoDB Full Integrated</a></li>
   </ul>
 </div>
